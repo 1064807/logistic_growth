@@ -14,4 +14,4 @@ r = 0.0299202 This is the gradient of summary of model 1 from datasubset1
   
 K = 1000000000 This is the intercept of summary of model 2 from datasubset2
 
-![GitHub Logo](https://github.com/logos/github-logo.png)
+![Plot showing Logistic Growth Data with Vertical Lines Indicating t for Case 1 and Case 2](https://github.com/sathvikakrishnan/logistic_growth/blob/main/plot.png?raw=true)
