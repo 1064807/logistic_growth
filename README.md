@@ -36,6 +36,8 @@ parameter estimates I found in Question 1). 📈
 
 ![Graph Compares The Exponential and Logistic Growth Curves 📈](https://github.com/sathvikakrishnan/logistic_growth/blob/b4865e44228d910eb8cdcc6b944f7bc0738c0d5c/plot-2.png)
 
+This graph compares the exponential and logistic growth curves (using the same
+parameter estimates I found in Question 1) however. 📈
 
 __*Question 4*__
 ![Two Random Walks](https://github.com/sathvikakrishnan/logistic_growth/blob/ca91c0a223d46725fac2fe7159bf8e7706df4835/Random_Walk_Plot.png)
