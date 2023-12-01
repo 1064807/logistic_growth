@@ -34,15 +34,19 @@ __*Question 3*__
 This graph compares the exponential and logistic growth curves (using the same
 parameter estimates I found in Question 1). 📈
 
-![Graph Compares The Exponential and Logistic Growth Curves 📈](https://github.com/sathvikakrishnan/logistic_growth/blob/b4865e44228d910eb8cdcc6b944f7bc0738c0d5c/plot-2.png)
+![Graph Compares The Exponential and Logistic Growth Curves 📈](https://github.com/sathvikakrishnan/logistic_growth/blob/86136d18e4cf90c377258feac521bdda73d50968/Growth_Curve.png)
 
 This graph compares the exponential and logistic growth curves (using the same
-parameter estimates I found in Question 1) however. 📈
+parameter estimates I found in Question 1) however, a log transformation has been applied to the population size. 📈
+
+![Graph Compares The Exponential and Logistic Growth Curves with a Log Transformation on Population Size📈](https://github.com/sathvikakrishnan/logistic_growth/blob/ba91e70165e4ac72daa6edf99ce690b1ce09763e/Growth_Curve_Log.png)
 
 __*Question 4*__
 ![Two Random Walks](https://github.com/sathvikakrishnan/logistic_growth/blob/ca91c0a223d46725fac2fe7159bf8e7706df4835/Random_Walk_Plot.png)
 
-The random walks are depicted in two plots plotted side-by-side. The plots depict the paths of random walks over 500 steps. Despite both walks starting at 0,0, they have indivdiual trajectories with random angles due to the stochastic nature of Brownian motion in random walks. The directions are uncorrelated (i.e. the direction of movement is  independent of the previous directions moved) and unbiased (i.e. the direction of motion is random). As a result of these two features, the trajectories seem unpredictable and each path is unique. The colour variation along the paths represents the progression of time in both walks. Earlier steps are darker blue and later steps are lighter blue as indicated by the colour gradient key. 
+The random walks are depicted in two plots plotted side-by-side. The plots depict the paths of random walks over 500 steps. Despite both walks starting at 0,0, they have indivdiual trajectories with random angles due to the stochastic nature of Brownian motion in random walks. The directions are uncorrelated (i.e. the direction of movement is  independent of the previous directions moved) and unbiased (i.e. the direction of motion is random). As a result of these two features, the trajectories seem unpredictable and each path is unique. The colour variation along the paths represents the progression of time in both walks. Earlier steps are darker blue and later steps are lighter blue as indicated by the colour gradient key.
+
+Random seeds are
 
 x<sup>2</sup>
 H<sub>2</sub>O
