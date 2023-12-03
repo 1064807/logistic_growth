@@ -2,6 +2,8 @@
 
 Here are the R scripts for a reproducible analysis of logistic growth using "experiment2.csv" 🔗 : 
 
+[plot_data.R](https://github.com/sathvikakrishnan/logistic_growth/blob/4e7e005d587fcbf467db81354e4e0d9debec27d4/plot_data.R)
+
 
 __*Question 1*__
 
