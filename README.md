@@ -38,7 +38,7 @@ We can see that if we use the exponential model for population growth, we get a 
 
 __*Question 3*__
 
-[This is the R script that makes a graph comparing the exponential and logistic growth curves 🔗.](https://github.com/1064807/logistic_growth/blob/3c9d9080ba1b3d1ca28986521846f5e2080dca87/growth_curve_comparison.R)
+[This is the R script that makes a graph comparing the exponential and logistic growth curves 🔗.](https://github.com/1064807/logistic_growth/blob/628888e193ad4f3f5d7513a1eea644086640b31b/growth_curve_comparison.R)
 
 This graph compares the exponential and logistic growth curves (using the same
 parameter estimates I found in Question 1). 📈
