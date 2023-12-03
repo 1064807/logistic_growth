@@ -1,6 +1,7 @@
 #Script to plot data and model
 
-growth_data <- read.csv("???")
+
+growth_data <- read.csv("experiment2.csv")
 
 logistic_fun <- function(t) {
   
@@ -10,18 +11,17 @@ logistic_fun <- function(t) {
   
 }
 
-N0 <- ??? #
+N0 <- 7.5907133 #This is the intercept of summary 1 (lm, i.e. the linear model)
   
-r <- ??? #
+r <- 0.0299202 #This is the gradient of summary 1 
   
-K <- ??? #
+K <- 1000000000 #This is the intercept of summary 2
 
-ggplot(aes(???,???), data = growth_data) +
+ggplot(aes(t,N), data = growth_data) +
   
   geom_function(fun=logistic_fun, colour="red") +
   
   geom_point()
 
   #scale_y_continuous(trans='log10')
-
 
