@@ -1,5 +1,3 @@
-<pre>
-```R
 #Script to plot the logistic growth data
 
 growth_data <- read.csv("experiment2.csv")
@@ -52,4 +50,3 @@ ggplot(aes(t, N), data = growth_data) +
 
   scale_y_continuous(trans='log10')
    ```
-</pre>
