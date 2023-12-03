@@ -2,6 +2,7 @@
 
 Here are the R scripts for a reproducible analysis of logistic growth using "experiment2.csv" 🔗 : 
 
+
 __*Question 1*__
 
 When fitting a linear model, I used:
@@ -30,6 +31,8 @@ When t=4980 min, N<sub>t</sub>=1 &times; 10<sup>9</sup>
 We can see that if we use the exponential model for population growth, we get a population size that extensively exceeds the carrying capacity (K). In fact, the answer is 3.902005 &times; 10<sup>56</sup> times larger than the carrying capacity (which is 1000000000). This is contrasted by the logistic growth model. In this model, there is a carrying capacity so the population plateaus out at 1000000000. Therefore, even at a large time point of t=4980, the population remains at carrying capacity. This difference between models can be explained biologically: the exponential models assume unlimited resources, constant birth and death rates, no density-dependent factors, and constant environmental conditions. As a result of all these assumptions, particularly the lack of density-dependent factors, the population is allowed to grow ad infinitum. This is biologically unreasonable. The logistic model does not make these assumptions as it has a carrying capacity (i.e. the equilibrium population size where the available resources in an ecosystem are sufficient to sustain the population given limited resources and density-dependent regulation).
 
 __*Question 3*__
+
+[This is the R script that makes a graph comparing the exponential and logistic growth curves 🔗.](https://github.com/sathvikakrishnan/logistic_growth/blob/b6bd2cf49a1f2bf16327e0947ca37ca093659e9f/growth_curve_comparison)
 
 This graph compares the exponential and logistic growth curves (using the same
 parameter estimates I found in Question 1). 📈
