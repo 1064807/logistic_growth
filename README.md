@@ -2,11 +2,11 @@
 
 Here are the R scripts for a reproducible analysis of logistic growth using "experiment2.csv" 🔗 : 
 
-[plot_data.R](https://github.com/sathvikakrishnan/logistic_growth/blob/4e7e005d587fcbf467db81354e4e0d9debec27d4/plot_data.R)
+[plot_data.R](https://github.com/1064807/logistic_growth/blob/9ca903137460af80a789528302aa59906d9a7f11/plot_data.R)
 
-[plot_data_and_model.R](https://github.com/sathvikakrishnan/logistic_growth/blob/eab8201bc58e22c61b2b9544273aa985d703c406/plot_data_and_model.R)
+[plot_data_and_model.R](https://github.com/1064807/logistic_growth/blob/9ca903137460af80a789528302aa59906d9a7f11/plot_data_and_model.R)
 
-[fit_linear_model.R](https://github.com/sathvikakrishnan/logistic_growth/blob/478bf373c57a993c234d2fb76a2a4462534f4342/fit_linear_model.R)
+[fit_linear_model.R](https://github.com/1064807/logistic_growth/blob/9ca903137460af80a789528302aa59906d9a7f11/fit_linear_model.R)
 
 __*Question 1*__
 
