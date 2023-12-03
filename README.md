@@ -17,7 +17,7 @@ When fitting a linear model, I used:
 
 This plot shows the logistic growth data with vertical lines indicating t for Case 1 and Case 2 📈
 
-![Plot showing Logistic Growth Data with Vertical Lines Indicating t for Case 1 and Case 2 📈](https://github.com/sathvikakrishnan/logistic_growth/blob/main/plot.png?raw=true)
+![Plot showing Logistic Growth Data with Vertical Lines Indicating t for Case 1 and Case 2 📈](https://github.com/1064807/logistic_growth/blob/3c9d9080ba1b3d1ca28986521846f5e2080dca87/plot.png)
 
 From this, I extracted:
 - __N<sub>0</sub> = 7.5907133__ This is the intercept of summary of model 1 from datasubset1 (linear model)
@@ -38,14 +38,14 @@ We can see that if we use the exponential model for population growth, we get a 
 
 __*Question 3*__
 
-[This is the R script that makes a graph comparing the exponential and logistic growth curves 🔗.](https://github.com/sathvikakrishnan/logistic_growth/blob/b6bd2cf49a1f2bf16327e0947ca37ca093659e9f/growth_curve_comparison)
+[This is the R script that makes a graph comparing the exponential and logistic growth curves 🔗.](https://github.com/1064807/logistic_growth/blob/3c9d9080ba1b3d1ca28986521846f5e2080dca87/growth_curve_comparison.R)
 
 This graph compares the exponential and logistic growth curves (using the same
 parameter estimates I found in Question 1). 📈
 
-![Graph Compares The Exponential and Logistic Growth Curves 📈](https://github.com/sathvikakrishnan/logistic_growth/blob/86136d18e4cf90c377258feac521bdda73d50968/Growth_Curve.png)
+![Graph Compares The Exponential and Logistic Growth Curves 📈](https://github.com/1064807/logistic_growth/blob/3c9d9080ba1b3d1ca28986521846f5e2080dca87/Growth_Curve.png)
 
 This graph compares the exponential and logistic growth curves (using the same
 parameter estimates I found in Question 1) however, a log transformation has been applied to the population size. 📈
 
-![Graph Compares The Exponential and Logistic Growth Curves with a Log Transformation on Population Size📈](https://github.com/sathvikakrishnan/logistic_growth/blob/ba91e70165e4ac72daa6edf99ce690b1ce09763e/Growth_Curve_Log.png)
+![Graph Compares The Exponential and Logistic Growth Curves with a Log Transformation on Population Size📈](https://github.com/1064807/logistic_growth/blob/3c9d9080ba1b3d1ca28986521846f5e2080dca87/Growth_Curve_Log.png)
