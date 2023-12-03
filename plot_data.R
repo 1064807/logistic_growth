@@ -35,7 +35,8 @@ ggplot(aes(t,N), data = growth_data) +
   
   scale_y_continuous(trans='log10')
 
-#To make a graph showing 
+#To make a plot showing the logistic growth data with vertical lines indicating t for Case 1 and Case 2
+
 ggplot(aes(t, N), data = growth_data) +
 
   geom_point() +
@@ -49,4 +50,4 @@ ggplot(aes(t, N), data = growth_data) +
        y = "Population Size (N)")+
 
   scale_y_continuous(trans='log10')
-   ```
+
