@@ -2,7 +2,7 @@
 
 Here are the R scripts for a reproducible analysis of logistic growth using "experiment2.csv" 🔗 : 
 
-[plot_data.R](https://github.com/1064807/logistic_growth/blob/9ca903137460af80a789528302aa59906d9a7f11/plot_data.R)
+[plot_data.R](https://github.com/1064807/logistic_growth/blob/01eb6b419153414aab758e14dfb69df2191a7393/plot_data.R)
 
 [plot_data_and_model.R](https://github.com/1064807/logistic_growth/blob/9ca903137460af80a789528302aa59906d9a7f11/plot_data_and_model.R)
 
