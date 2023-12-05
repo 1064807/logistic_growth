@@ -48,4 +48,8 @@ parameter estimates I found in Question 1). 📈
 This graph compares the exponential and logistic growth curves (using the same
 parameter estimates I found in Question 1) however, a log transformation has been applied to the population size. 📈
 
-![Graph Compares The Exponential and Logistic Growth Curves with a Log Transformation on Population Size📈](https://github.com/1064807/logistic_growth/blob/3c9d9080ba1b3d1ca28986521846f5e2080dca87/Growth_Curve_Log.png)
+![Graph Compares The Exponential and Logistic Growth Curves with a Log Transformation on Population Size📈]
+(https://github.com/1064807/logistic_growth/blob/3c9d9080ba1b3d1ca28986521846f5e2080dca87/Growth_Curve_Log.png)
+
+To go back, to my reproducible-research-homework repo (forked), please use this link 🔗: https://github.com/1064807/reproducible-research_homework.git
+
